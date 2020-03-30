@@ -1,0 +1,6 @@
+C:\Users\Jesper Deleurand\source\repos\oprydning\oprydning\bin\Debug\oprydning.exe.config
+C:\Users\Jesper Deleurand\source\repos\oprydning\oprydning\bin\Debug\oprydning.exe
+C:\Users\Jesper Deleurand\source\repos\oprydning\oprydning\bin\Debug\oprydning.pdb
+C:\Users\Jesper Deleurand\source\repos\oprydning\oprydning\obj\Debug\oprydning.csprojAssemblyReference.cache
+C:\Users\Jesper Deleurand\source\repos\oprydning\oprydning\obj\Debug\oprydning.exe
+C:\Users\Jesper Deleurand\source\repos\oprydning\oprydning\obj\Debug\oprydning.pdb
