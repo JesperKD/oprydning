@@ -25,7 +25,7 @@ namespace oprydning
             return managementObject["VolumeSerialNumber"].ToString();
         }
 
-        public static  ManagementObjectCollection GetMainStorage()
+        public static ManagementObjectCollection GetMainStorage()
         {
             ObjectQuery wql = new ObjectQuery("SELECT * FROM Win32_OperatingSystem");
             ManagementObjectSearcher searcher = new ManagementObjectSearcher(wql);
